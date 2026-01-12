@@ -1,3 +1,6 @@
+All changes I have made are in [https://github.com/jithjoysonde/dcase-few-shot-bioacoustic/baselines/dcase2024_task5
+](https://github.com/jithjoysonde/dcase-few-shot-bioacoustic/tree/main/baselines/dcase2024_task5)
+
 # Few-shot Bioacoustic Event Detection (DCASE 2022 Task 5) source code
 This is the official repository for Few-shot Bioacoustic Event Detection (Task 5 in the DCASE Challenge 2022). This repository contains the source code to run the evaluation metrics, and the baseline systems, along with a detailed description of the task. 
 
